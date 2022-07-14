@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+    color: red;
+    margin: 20% auto 0px;
+}
+div{
+    background-color: rgb(248, 252, 11);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    margin: 10px auto 0px;
+    border: 2px solid rgb(231, 31, 31);
+    border-radius: 9px;
+}
+button{
+    width: 20%;
+    height: 12%;
+    margin-left: 40%;
+    position: relative;
+}
+#n1,#n2{
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    margin-left:37% ;
+}
