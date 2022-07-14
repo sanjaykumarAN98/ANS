@@ -1,0 +1,39 @@
+.form {
+    
+    margin: 10% 40%;
+    background-color: rgb(223, 223, 35);
+    padding: 10px 10px;
+    position: absolute;
+    align-content: center;
+    font-family: cursive;
+
+}
+
+.form input {
+    border: 2px solid rgb(56, 54, 54);
+    height: 36px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 21px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#submit{
+
+    text-align: center;
+    height: 40px;
+    width: 101px;
+    border-radius: 15px;
+    margin: 2px 103px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+.table{
+    font-size: 30px;
+    margin: auto;
+   
+   
+}

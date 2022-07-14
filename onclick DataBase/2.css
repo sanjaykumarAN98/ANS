@@ -1,0 +1,39 @@
+div{
+    text-align: center;
+    background-color: #c2be87;
+    padding: 10px;
+
+}
+label p{
+ 
+    font-family: Bradley Hand ITC;
+    color: rgb(194, 23, 60);
+    padding: 1px;
+    font-weight: 990;
+    
+}
+input
+{
+    width: 20%;
+    text-align: left;
+    padding: 8px;
+    border-radius: 8px;
+    margin: top 2px 20px; ;
+    background-color: rgba(161, 163, 30, 0.329);
+    
+}
+#p{
+    text-align: left;
+    margin-left: 520px;
+}
+.btn{
+    width: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: rgb(25, 247, 4);
+}
+.btn:hover{
+    background-color: rgb(164, 248, 8);
+}

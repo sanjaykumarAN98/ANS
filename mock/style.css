@@ -1,0 +1,14 @@
+h2{
+    color: red;
+    text-align: center;
+}
+div{
+    width: 30%;
+    margin-left: 459px;
+    background-color: rgba(122, 241, 10, 0.795);
+    text-align: center;
+    border-radius: 5px;
+}
+#gender,#degree{
+    color: red;
+}

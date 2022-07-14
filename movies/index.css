@@ -1,0 +1,88 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body,html{
+    width: 100%;
+    overflow-x: hidden;
+}
+body{
+    background-color: #efefef;
+
+}
+.user{
+    /* border: 2px solid red; */
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.user-card{
+    /* border: 20px solid green; */
+    height: 372px;
+    width: 300px;
+    margin: 20px;
+    position: relative;
+    box-shadow: 1px 1px 30px 1px rgb(128, 64, 64);
+    border-radius: 10px 10px 0px 0px;
+}
+.user-card img{
+    width: 300px;
+    padding: 0px;
+    height: 300px;
+    justify-content: center;
+
+    /* border-radius: 100px 10px 0px 0px; */
+
+}
+.user-card img:hover{
+    transform: scale(0.9);
+}
+.user-icons{
+    /* border: 2px solid blue; */
+    text-align: center;
+    padding: 5px;
+    position: absolute;
+    bottom: 72px;
+    width: 100%;
+    background-color: rgba(211, 223, 211, 0.288);
+    visibility: hidden;
+    transform: all 1s;
+}
+.user-card:hover .user-icons{
+    visibility: visible;
+}
+.user-icons i{
+    margin: 24px;
+    font-size: 23px;
+}
+.user-card h3, .user-card p{
+    text-align: center;
+}
+.search{
+    width: 100%;
+    margin: 50px auto;
+    padding: 10px;
+    
+    position: relative;
+}
+.serach input{
+    width: 100%;
+    padding: 15px 10px;
+    border: 1px solid rgb(107, 199, 230);
+    outline: none;
+    border-radius: 7px;
+}
+.search i{
+    position: absolute;
+    top: 26px;
+    right: 19px;
+    color: lightskyblue;
+    cursor: pointer;
+
+}
