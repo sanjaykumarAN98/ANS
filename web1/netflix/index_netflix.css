@@ -1,0 +1,173 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(net\ bac.png);
+    background-size: 100% 100;
+}
+
+
+.logo img{
+    width: 100px;
+    height: 40px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+#button1{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    padding: 4px;
+
+}
+#button2{
+    background-color: red;
+    border-radius: 2px;
+    color: white;
+    border:none;
+    margin-left: 20px;
+    padding: 4px;
+}
+.content{
+    color: white;
+    text-align: center;
+    margin-top: 130px;
+}
+.content h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+#p1{
+    line-height: 2px;
+    
+}
+#p2{
+    line-height: 40px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    height: 40px;
+    width: 400px;
+    font-size: medium;
+}
+.button_form{
+    background-color:red;
+    font-size: medium;
+    padding: 13px 20px;
+    border: none;
+}
+#text{
+    margin-left: 30px;
+    color: white;
+}
+.block1{
+    background-color: black;
+    margin-top: 100px;
+    border-top: 7px solid grey;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 90px;
+    border-bottom:7px solid grey ;
+}
+#add{
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.block2{
+    background-color: black;
+    /* margin-top: 100px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+    border-bottom: 7px solid grey;
+}
+#text2 h1{
+    color: white;
+    font-size:50px;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text2 p{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.block3{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+    border-bottom: 7px solid grey;
+}
+#text3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size:50px;
+    line-height: 50px;
+}
+#text3 p{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.block4{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+    border-bottom: 7px solid grey;
+}
+#text4 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size:50px;
+    line-height: 50px;
+}
+#text4 p{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.block5{
+    background-color: black;
+    padding: 90px;
+    border-bottom: 7px solid grey;
+    justify-content: center;
+}
+#header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size:50px;
+    margin: 0px;
+}
+#b1{
+    padding: 10px;
+    padding-right: 525px;
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: grey;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#b2{
+    padding: 10px;
+    padding-right: 410px;
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: grey;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

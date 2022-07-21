@@ -1,0 +1,29 @@
+.headlineline{
+    
+
+}
+h1{
+    padding: 0%;
+    margin: 2px;
+}
+
+.top_link:hover{
+    float: left;
+    color: gray;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    display: flex;
+}
+#contact{
+    float: left;
+
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.navbar a:hover{
+    text-decoration: none;
+}

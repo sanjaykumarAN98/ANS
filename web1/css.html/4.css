@@ -1,0 +1,14 @@
+.c{
+ border-top: 5px dotted red;
+ border-bottom: 5px dashed blue;
+ border-right: 5px double yellow;
+ border-left: 5px double green;
+padding: 50px;
+padding-right: 400px;
+padding-bottom: 900px;
+padding-top: 1500px;
+ 
+}
+#c1.p{
+    color: blue;
+}
